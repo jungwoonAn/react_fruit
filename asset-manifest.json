@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//jungwoonan.github.io/react_fruit/static/css/main.3daa8776.css",
-    "main.js": "//jungwoonan.github.io/react_fruit/static/js/main.29ecc6f5.js",
-    "static/js/453.378e1aeb.chunk.js": "//jungwoonan.github.io/react_fruit/static/js/453.378e1aeb.chunk.js",
-    "static/media/slider.jpg": "//jungwoonan.github.io/react_fruit/static/media/slider.54cc2d2774b480638c2b.jpg",
-    "index.html": "//jungwoonan.github.io/react_fruit/index.html",
-    "main.3daa8776.css.map": "//jungwoonan.github.io/react_fruit/static/css/main.3daa8776.css.map",
-    "main.29ecc6f5.js.map": "//jungwoonan.github.io/react_fruit/static/js/main.29ecc6f5.js.map",
-    "453.378e1aeb.chunk.js.map": "//jungwoonan.github.io/react_fruit/static/js/453.378e1aeb.chunk.js.map"
+    "main.css": "/react_fruit/static/css/main.836147b9.css",
+    "main.js": "/react_fruit/static/js/main.8ccb2099.js",
+    "static/js/453.378e1aeb.chunk.js": "/react_fruit/static/js/453.378e1aeb.chunk.js",
+    "static/media/slider.jpg": "/react_fruit/static/media/slider.54cc2d2774b480638c2b.jpg",
+    "index.html": "/react_fruit/index.html",
+    "main.836147b9.css.map": "/react_fruit/static/css/main.836147b9.css.map",
+    "main.8ccb2099.js.map": "/react_fruit/static/js/main.8ccb2099.js.map",
+    "453.378e1aeb.chunk.js.map": "/react_fruit/static/js/453.378e1aeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3daa8776.css",
-    "static/js/main.29ecc6f5.js"
+    "static/css/main.836147b9.css",
+    "static/js/main.8ccb2099.js"
   ]
 }
